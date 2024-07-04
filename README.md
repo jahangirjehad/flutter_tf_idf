@@ -51,10 +51,17 @@ void main() {
 ```
 
 ## Additional information
+For more information on how to use this package, please refer to the API documentation and the example provided in the [`example/main.dart`](./example/lib/main.dart) file.
 
-For more information on how to use this package, please refer to the API documentation and the example provided in the `example` folder.
+## Author
 
-If you encounter any issues or have feature requests, please file them in the [issue tracker](https://github.com/yourusername/flutter_tf_idf/issues).
+This package is developed and maintained by [Jahangir Jehad](https://github.com/jahangirjehad).
+
+## Show Your Support
+
+If you find this package helpful, please consider giving it a star on GitHub. Your support helps to make this project more visible to others who might benefit from it.
+
+[![Star on GitHub](https://img.shields.io/github/stars/jahangirjehad/flutter_tf_idf.svg?style=social)](https://github.com/jahangirjehad/flutter_tf_idf/stargazers)
 
 
 
