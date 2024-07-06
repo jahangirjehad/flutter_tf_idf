@@ -1,6 +1,6 @@
 name: flutter_tf_idf
 description: "A collection of TF IDF processing including TF-IDF, Cosine similarity, etc."
-version: 0.0.1
+version: 0.0.2
 homepage:
 
 environment:
